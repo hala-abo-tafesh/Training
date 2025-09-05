@@ -66,6 +66,11 @@ class LoginScreen extends StatelessWidget {
                     Icons.lock,
                   ) ,
                   suffixIcon: Icon(
+
+
+
+
+                    
                     Icons.remove_red_eye,
                   ) ,
                   border: OutlineInputBorder(),
