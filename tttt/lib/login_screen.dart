@@ -61,6 +61,10 @@ class LoginScreen extends StatelessWidget {
                   print(value);
                 },
                 decoration: InputDecoration(
+
+
+
+                  
                   labelText: 'Password',
                   prefixIcon: Icon(
                     Icons.lock,
@@ -70,7 +74,7 @@ class LoginScreen extends StatelessWidget {
 
 
 
-                    
+
                     Icons.remove_red_eye,
                   ) ,
                   border: OutlineInputBorder(),
